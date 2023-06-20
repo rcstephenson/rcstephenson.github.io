@@ -9,33 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+---
 * Ph.D Physics, California Institute of Technology, 2027 (expected)
 * B.S. Physics, Arizona State University, 2022
 
-<!-- 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Research Statement
+---
+Interested in low-noise, low temperature instrumentation at microwave frequencies. Research focus is on improving state-of-the-art millimeter/sub-millimeter recievers using superconducting parametric amplifiers. A novel nonlinear superconducting device developed at JPL. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Work experience
+---
+* Aug 2022 - Present: Caltech, Graduate Student
+* Aug 2020 to May 2021: Caltech/NASA Jet Propulsion Lab, Intern
+* Summer 2019: NASA Goddard Space Flight Center, Intern
+* Oct 2019 - 2022: ASU -- Astronomical Instrumentation, Undergraduate Research
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+
+
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
