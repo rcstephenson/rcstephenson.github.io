@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "home"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### About Me
+### Research Work
 ---
 
 I currently work on superconducting parametric amplifiers (paramps) at Caltech and JPL's [Microdevices Lab](https://microdevices.jpl.nasa.gov/). These devices have the exciting potential of quantum-noise limited performance, with large gain, across wide instananeous bandwidths. Applications for paramps include millimeter wavelength Astronomy, large-scale quantum computing, and related lab-based experiments.
