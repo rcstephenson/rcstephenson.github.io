@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "" # Instruments, Astrophysics, etc.
+title                    : "rstephenson" # Instruments, Astrophysics, etc.
 title_separator          : "-"
 name                     : &name "Ryan Stephenson"
 description              : &description "Personal Website"

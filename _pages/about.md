@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "rcstephenson"
+title: "home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
