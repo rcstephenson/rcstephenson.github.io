@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 ---
-* Ph.D Physics, California Institute of Technology, 2027 (expected)
+* Ph.D Physics, California Institute of Technology, 2022-current
 * B.S. Physics, Arizona State University, 2022
 
 ### Research Statement
