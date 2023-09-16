@@ -21,9 +21,9 @@ Interested in low-noise, low temperature instrumentation at microwave frequencie
 ### Work experience
 ---
 * Aug 2022 - Present: Caltech, Graduate Student
-* Aug 2020 to May 2021: Caltech/NASA Jet Propulsion Lab, Intern
+* Aug 2020 - May 2021: Caltech/NASA Jet Propulsion Lab, Intern
 * Summer 2019: NASA Goddard Space Flight Center, Intern
-* Oct 2019 - 2022: ASU -- Astronomical Instrumentation, Undergraduate Research
+* Oct 2018 - 2022: ASU -- Astronomical Instrumentation, Undergraduate Research
 
 
 
