@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+### About Me
+
+Hello, I am a graduate student at Caltech in the Physics department. Research interest focuses on the development of superconducting microwave devices and their applications in Astronomy or lab-based experiments.  
+
+
 ### Research Work
 ---
 
